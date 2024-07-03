@@ -8,12 +8,13 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   2 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.55 %
-PHP              1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-TypeScript       49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Bash             25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Markdown         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Blade Template   2 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   36.16 %
+TypeScript       1 hr 32 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+PHP              1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+Bash             25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Other            18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
+
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com/badge/user/018ece4c-ff65-47b1-86a2-26e4e720c978/project/018eced1-15f8-422d-bd39-73be228d378b"><img src="https://wakatime.com/badge/user/018ece4c-ff65-47b1-86a2-26e4e720c978/project/018eced1-15f8-422d-bd39-73be228d378b.svg" alt="wakatime"></a>
