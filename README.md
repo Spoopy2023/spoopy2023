@@ -8,11 +8,11 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       3 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.92 %
-Blade Template   2 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
-MDX              1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-YAML             42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-JSON             41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+TypeScript       2 hrs 41 mins   █████████▒░░░░░░░░░░░░░░░   36.92 %
+YAML             1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+MDX              1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+JSON             41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Blade Template   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
 
 <!--END_SECTION:waka-->
