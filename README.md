@@ -8,11 +8,11 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       6 hrs 25 mins   █████████░░░░░░░░░░░░░░░░   35.47 %
-Blade Template   4 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-PHP              3 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-YAML             1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-CSS              1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+TypeScript       5 hrs 53 mins   ████████████▒░░░░░░░░░░░░   49.70 %
+PHP              1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Bash             53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Blade Template   43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Docker           40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->
