@@ -8,9 +8,11 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 16 mins    █████████████████████████   99.89 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript       1 hr 16 mins    █████████████████████░░░░   83.87 %
+PHP              8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Blade Template   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+JavaScript       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
