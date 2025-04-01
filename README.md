@@ -8,9 +8,9 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   42 mins         ████████████████████████▓   98.75 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript   1 hr 3 mins     ████████████████████▓░░░░   82.23 %
+Bash         13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
