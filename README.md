@@ -8,8 +8,8 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   30 mins         ████████████████████████▓   99.33 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript   5 mins          ████████████████████████░   96.24 %
+SSH Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
