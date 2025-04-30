@@ -8,8 +8,11 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   23 mins         ███████████████████████▓░   95.09 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+TypeScript      23 mins         ████████████░░░░░░░░░░░░░   48.04 %
+PHP             18 mins         █████████▒░░░░░░░░░░░░░░░   37.48 %
+Apache Config   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+JavaScript      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Bash            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
