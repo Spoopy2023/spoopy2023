@@ -8,8 +8,7 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    14 mins         ███████████████████▒░░░░░   77.28 %
-Bash   4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
