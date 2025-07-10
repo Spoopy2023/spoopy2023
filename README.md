@@ -8,7 +8,11 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   2 mins          █████████████████████████   100.00 %
+PHP          15 mins         ████████████░░░░░░░░░░░░░   47.46 %
+JavaScript   7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+Bash         6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Git Config   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
