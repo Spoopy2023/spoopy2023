@@ -8,11 +8,7 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   50 mins         ██████████████████▒░░░░░░   73.00 %
-Other        13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.70 %
-TSConfig     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
