@@ -8,8 +8,7 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 mins          █████████████▒░░░░░░░░░░░   53.48 %
-PHP        3 mins          ███████████▓░░░░░░░░░░░░░   46.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
