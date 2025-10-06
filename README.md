@@ -8,7 +8,7 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-Text   13 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
