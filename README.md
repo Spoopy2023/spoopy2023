@@ -8,7 +8,11 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   12 mins         █████████▒░░░░░░░░░░░░░░░   37.00 %
+CSS          6 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+JSON         6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+JavaScript   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
