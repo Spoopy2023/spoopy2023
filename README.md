@@ -8,7 +8,8 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   2 mins          █████████████████████████   100.00 %
+YAML         5 mins          ██████████████████████▓░░   90.47 %
+SSH Config   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
 ```
 
 <!--END_SECTION:waka-->
