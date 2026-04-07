@@ -8,8 +8,7 @@ Dev stats
 <!--START_SECTION:waka-->
 
 ```txt
-JSON             1 min                 ███████████████████████▒░   93.96 %
-Blade Template   0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
